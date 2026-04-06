@@ -33,14 +33,14 @@ Tenho focado meus estudos em JavaScript, lógica de programação e construção
 ---
 
 ## 📌 Projetos em destaque
-🔹 Em breve... (adicione aqui seus melhores projetos com descrição e link)
+🔹 Sistema de reservas simples - (https://github.com/brianmartinezdev/pms-sistema-reservas-js)
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braianavena@outlook.com)
 
 ---
 
