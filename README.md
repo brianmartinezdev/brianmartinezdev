@@ -1,8 +1,11 @@
 # 👨‍💻 Brian Avena Martinez
 
 💼 Analista de Suporte Técnico  
+
 🚀 Em transição para Desenvolvedor 
+
 ☕ Focado em JavaScript, lógica de programação e desenvolvimento web
+
 📍 Florianópolis - SC  
 
 ---
