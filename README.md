@@ -1,7 +1,7 @@
 # 👨‍💻 Brian Avena Martinez
 
 💼 Analista de Suporte Técnico  
-🚀 Em transição para Desenvolvedor Back-end  
+🚀 Em transição para Desenvolvedor 
 ☕ Estudando Java, APIs REST e lógica de programação  
 📍 Florianópolis - SC  
 
@@ -9,18 +9,13 @@
 
 ## 🚀 Sobre mim
 Sou um profissional com experiência em suporte técnico, atualmente em transição de carreira para desenvolvimento back-end.  
-Tenho focado meus estudos em Java, lógica de programação e construção de APIs, buscando evoluir através de projetos práticos.
+Tenho focado meus estudos em JavaScript, lógica de programação e construção de APIs, buscando evoluir através de projetos práticos.
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
-### 💻 Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🌐 Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Front-end e back-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Ferramentas
