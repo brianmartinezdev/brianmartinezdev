@@ -1,6 +1,6 @@
 # 👨‍💻 Brian Avena Martinez
 
-💼 Analista de Suporte Técnico  
+💼 Analista de Suporte Técnico e implantador de software
 
 🚀 Em transição para Desenvolvedor 
 
