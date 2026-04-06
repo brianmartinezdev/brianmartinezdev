@@ -2,7 +2,7 @@
 
 💼 Analista de Suporte Técnico  
 🚀 Em transição para Desenvolvedor 
-☕ Estudando Java, APIs REST e lógica de programação  
+☕ Focado em JavaScript, lógica de programação e desenvolvimento web
 📍 Florianópolis - SC  
 
 ---
