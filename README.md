@@ -29,10 +29,13 @@ Tenho focado meus estudos em JavaScript, lógica de programação e construção
 
 ## 📊 Estatísticas
 
+<div align="center">
+
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brianmartinezdev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brianmartinezdev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brianmartinezdev&theme=tokyonight)
 
+</div>
 ---
 
 ## 📌 Projetos em destaque
