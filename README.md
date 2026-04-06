@@ -35,6 +35,8 @@ Tenho focado meus estudos em JavaScript, lógica de programação e construção
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brianmartinezdev&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=brianmartinezdev&theme=tokyonight)
+
 </div>
 ---
 
